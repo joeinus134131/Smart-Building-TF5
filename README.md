@@ -16,4 +16,7 @@ parameter yang dimonitoring
 2. Pemcahayaan
 3. Kebisingan
 
+untuk download skematik bisa teman download pada link tautan dibawah ini
+https://drive.google.com/file/d/1K0o3yHZSxGfMD0il1QU4GQDuglOi9z8C/view?usp=sharing
+
 Semoga bermanfaat
