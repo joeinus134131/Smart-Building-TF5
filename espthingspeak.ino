@@ -1,6 +1,6 @@
 /*
  * Tubes Metode Pengukuran - TF
- * Author      : Made Agus Andi Gunawan
+ * Author      : Made Agus Andi Gunawan(https://id.arduino.cc/corpselily/)
  * Company     : IDNMakerspace Algorithm Factory  
  * Last Edited : 6 Des 2020
  * Reference   : create.arduino.cc
