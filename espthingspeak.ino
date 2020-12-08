@@ -1,7 +1,9 @@
 /*
  * Tubes Metode Pengukuran - TF
- * Author      : IDNMakerspace Algorithm Factory  
+ * Author      : Made Agus Andi Gunawan
+ * Company     : IDNMakerspace Algorithm Factory  
  * Last Edited : 6 Des 2020
+ * Reference   : create.arduino.cc
  */
 
 //library
